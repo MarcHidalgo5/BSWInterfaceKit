@@ -1,13 +1,13 @@
 {
-  "originHash" : "f9e9d4b5abcebc0c5303a913a6d6714b98167e717b37a121a8ce892c5e207c8a",
+  "originHash" : "6bf4fe6cd5035822e2c2cc411338fb51d3cf276025e0282417461775a409cc98",
   "pins" : [
     {
       "identity" : "bswfoundation",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/theleftbit/BSWFoundation.git",
+      "location" : "https://github.com/MarcHidalgo5/BSWFoundation.git",
       "state" : {
-        "revision" : "7089710a9d6f0f413049dde74a3a6233b3b7e2eb",
-        "version" : "7.3.2"
+        "branch" : "develop",
+        "revision" : "a1f82ab7af95cf16463452b44b991f88b528e195"
       }
     },
     {
@@ -83,6 +83,15 @@
       }
     },
     {
+      "identity" : "skip-keychain",
+      "kind" : "remoteSourceControl",
+      "location" : "https://source.skip.tools/skip-keychain.git",
+      "state" : {
+        "revision" : "def9e33d25a5a6c92a4e6ae029d7a2ed3ecdd9d2",
+        "version" : "0.3.2"
+      }
+    },
+    {
       "identity" : "skip-lib",
       "kind" : "remoteSourceControl",
       "location" : "https://source.skip.tools/skip-lib.git",
@@ -132,8 +141,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-asn1.git",
       "state" : {
-        "revision" : "f70225981241859eb4aa1a18a75531d26637c8cc",
-        "version" : "1.4.0"
+        "revision" : "9f542610331815e29cc3821d3b6f488db8715517",
+        "version" : "1.6.0"
       }
     },
     {
